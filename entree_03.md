@@ -2,19 +2,19 @@
 ## Plan de carrière
 
 ### Présentation
-Parlez de vous. 
+Bonjour, je m'appelle Thierry, j'ai une grande passion pour les jeux-vidéos et pour la technologie.
 
 ### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
+Je suis intéressez dans tout ce qui concerne la création de jeux-vidéo et dans la programmation en générale.
 
 ### Emplois qui vous intéressent
-Nommez deux emplois.
+Game Designer et Programmeur
 
 ### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
+J'ai toujours été un grand fan de John Romero car il a réussi à changé l'industrie à tout jamais.
 
 ### Dans 5 ans
-Où vous voyez-vous dans 5 ans? 
+En tant que programmeur pour une compagnie de jeux au Québec, comme Gearbox ou Ubisoft.
 
 ### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+J'ai entendu dire que l'un des projets de 3e années était la création d'un jeu, ce projet est ce qui m'a convaincu de joindre TIM.
